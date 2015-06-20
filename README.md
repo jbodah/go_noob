@@ -10,3 +10,5 @@ things i like:
 things i dislike
 - double quotes
 - capitals
+- not as implicit and convenient as ruby
+- GOPATH
