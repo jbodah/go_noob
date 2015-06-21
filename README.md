@@ -14,3 +14,4 @@
 - capitals
 - not as implicit and convenient as ruby
 - GOPATH
+- uppercase functions for public; would prefer public/private or underscore
