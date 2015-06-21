@@ -1,13 +1,15 @@
-The Little Go Book code
+## Code examples for [The Little Go Book](http://openmymind.net/assets/go/go.pdf)
 
-things i like:
+## Thoughts on Go
+
+### Things I Like
 - cli tools
 - syntactic sugar
 - compile time style/lint checks
 - vim-go save time compile check
 - always copy by value
 
-things i dislike
+### Things I Dislike
 - double quotes
 - capitals
 - not as implicit and convenient as ruby
