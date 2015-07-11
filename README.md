@@ -22,3 +22,5 @@
 - GOPATH
 - uppercase functions for public; would prefer public/private or underscore
 - no implicit truthy for boolean expressions
+- `interface {}` is a weird generic
+  - Casting from `interface {}` is a method call..?
