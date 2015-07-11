@@ -13,6 +13,7 @@
 - go fmt
 - no exceptions (or at least uncommon exceptions)
   - you basically just have error "codes"
+- first class functions!!!
 
 ### Things I Dislike
 - double quotes
