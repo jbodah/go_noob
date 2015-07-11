@@ -24,3 +24,4 @@
 - no implicit truthy for boolean expressions
 - `interface {}` is a weird generic
   - Casting from `interface {}` is a method call..?
+- being able to call fields of structs given a pointer is great, but why can't I call methods via a pointer too??
